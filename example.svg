@@ -9,7 +9,7 @@
             margin: 0;
             border-radius: 50%;
             position: relative;
-            background: url('https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2005/05/envisat_mosaic_may_-_november_2004/9695811-3-eng-GB/Envisat_mosaic_May_-_November_2004_pillars.jpg') repeat-x;
+            background: url('map.jpg') repeat-x;
             background-size: auto 100%;
             animation: move-map 30s infinite linear;
         }
@@ -64,7 +64,7 @@
             width: 100%;
             height: 100%;
             border-radius: 50%;
-            background: url('https://www.nicepng.com/png/full/1-14985_small-single-cloud-transparent-background-cloud-png.png') repeat-x;
+            background: url('cloud.png') repeat-x;
             background-size: auto 100%;
             animation: move-map 15s infinite linear;
             background-color: hsla(100, 100, 100, .5);
