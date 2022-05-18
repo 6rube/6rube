@@ -1,7 +1,7 @@
 
 |About me|
 |---|
-|![visitor badge](https://visitor-badge.glitch.me/badge?page_id=6rube.6rube)|
+|![visitor badge](https://visitor-badge.glitch.me/badge?page_id=6rube.6rube) [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,deno,discord,docker,dotnet,electron,express,figma,git,github,go,godot,java,linux,md,nginx,nodejs,ps,powershell,py,rust,tauri,svelte,ts,visualstudio,vscode,)](https://skillicons.dev) |
 |[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=6rube&row=1)](https://github.com/ryo-ma/github-profile-trophy)|
 | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6rube) |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6rube)](https://github.com/anuraghazra/github-readme-stats) |
